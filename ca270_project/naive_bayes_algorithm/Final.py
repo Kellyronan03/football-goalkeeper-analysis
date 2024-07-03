@@ -17,7 +17,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 
 # initializing df
-df = pd.read_excel("..\Downloads\gk_stats (1).xlsx")
+df = pd.read_excel("test-data.xlsx")
 #print(df.head(1).to_string())
 
 
