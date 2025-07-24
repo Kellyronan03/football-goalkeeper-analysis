@@ -1,4 +1,4 @@
-# 🧤 Premier League Goalkeeper Prediction – CA270 Project
+# 🧤 Premier League Goalkeeper Prediction
 
 ## Overview
 
